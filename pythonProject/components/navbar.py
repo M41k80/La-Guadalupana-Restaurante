@@ -58,7 +58,7 @@ def navbar() -> rx.Component:
 
 
                 rx.image(
-                    src="/LaGuadalupanalogo.png",
+                    src="/Laguadalupanalogo.png",
                     border_radius="1px",
                     border_width="thick",
                     width="50%",
