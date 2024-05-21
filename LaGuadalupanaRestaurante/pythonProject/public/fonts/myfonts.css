@@ -1,0 +1,10 @@
+@font-face {
+  font-family: myfont;
+  src: url("/fonts/MexicanaHollow.ttf") format("opentype");
+}
+
+@font-face {
+  font-family: myfont;
+  font-weight: bold;
+  src: url("/fonts/Mexicana.ttf") format("opentype");
+}
